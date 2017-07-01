@@ -2,6 +2,9 @@
 
 Every week at the minor Web Development, we had a professional in front of our class. Here is a list of all of these guest speakers. Besides the speakers we also had 5 articles to write, these are displayed beneath them.
 
+------------------------
+
+##Weekly Nerds
 <details>
 <summary><b>Justus Sturkenboom - Functional Programming</b></summary>
 
@@ -72,3 +75,103 @@ In this Weekly Nerd Titus Wormer told us more about the tool we used throughout 
 
 <img src="img/TitusWormer.png"/>
 </details>
+
+<details>
+<summary><b>Bram Duvigneau - Accessibility</b></summary>
+Bram Duvigneau is a blind developer and he spoke to us about accessibility. He spoke about the following subjects:
+
+Special keyboard
+- Tab key
+- Shortcuts
+- Cookies
+- Languages
+- Aria
+
+<img src="img/BD.png"/>
+</details>
+
+<details>
+<summary><b>Justus Sturkenboom - Sketchnoting</b></summary>
+Justus Sturkenboom gave a class about Sketchnoting and he spoke about the following:
+
+- Drawing vs sketching
+- Developing a sketch dictionary
+- Practice, practice, practice
+- Start with simple sketches
+- Gear
+
+<img src="img/SketchnoteJus.png"/>
+</details>
+
+
+
+<details>
+<summary><b>Jasper Moelker - Theme Parks for the Web</b></summary>
+This Weekly Nerd we Went to the company de Voorhoede. We teamed op to do an exercise for progressive enhancement. Besides that they spoke about:
+
+- Enjoyable experience
+- Layered experience
+- Feature detection
+- Broken experience
+- Patterns
+
+<img src="img/JasperMoelker.png"/>
+<img src="img/vh2.jpg"/>
+<img src="img/vh1.jpg"/>
+</details>
+
+<details>
+<summary><b>Peter Peerdeman - RTW en GraphQL</b></summary>
+Peter Peerdeman is one of the owners of the company Lifely. He came to speak about Web of Things and GraphQL. Subjects that came up:
+
+- Websockets
+- Distributed Data Protocol
+- Meteor
+- GraphQL
+
+<img src="img/PeterPeerdeman.png"/>
+</details>
+
+<details>
+<summary><b>Niels Leenheer - Obscure Browsers</b></summary>
+Niels Leenheer showed us his own Internet of Things creations. He told us about how he got these ideas and how he made them.
+
+- HTML5Check
+- Monsters and Mailboxes
+- House of the future
+- IOT-it-yourself
+- Pixel monster
+
+<img src="img/NielsLeenheer.png"/>
+</details>
+
+
+<details>
+<summary><b>Eva-Lotta Lamm - Sketchnotes</b></summary>
+This Weekly Nerd we went to an Icons meeting. The speaker was Eva-Lotta Lamm and she spoke about sketch noting:
+
+- Chunks
+- Importancy
+- Visual Hierarchy
+- Structure
+- Visual Hooks
+
+<img src="img/EvaLottaLam.png"/>
+</details>
+
+<details>
+<summary><b>Nick de Bruijn - a company made by CMD students</b></summary>
+An other owner of Lifely came to speak about his school and work experience.
+
+- Work experience world wide
+- Jobs lifely recieved
+- His school experience
+- Differences between HBO and University students
+- Tips for starting a company
+
+<img src="img/NickdeBruijn.png"/>
+</details>
+
+------------------------
+
+##Articles
