@@ -51,10 +51,10 @@ Het gesprek ging over verschillende dingen. We hebben gevraagd hoe hij in Nederl
 Peter Paul Koch discussed the following subjects when he came to speak to us:
 
 4 commen mistakes
-⋅⋅* Understanding the web -> minify the use of ⋅⋅* tools
-⋅⋅* Libraries
-⋅⋅* True JavaScript
-⋅⋅* Web Platforms
+- Understanding the web -> minify the use of tools
+- Libraries
+- True JavaScript
+- Web Platforms
 
 <img src="img/ppk1.png"/>
 <img src="img/ppk2.png"/>
@@ -65,10 +65,10 @@ Peter Paul Koch discussed the following subjects when he came to speak to us:
 <summary><b>Titus Wormer - Advanced Git Tips & Tricks</b></summary>
 In this Weekly Nerd Titus Wormer told us more about the tool we used throughout the minor, Git. He spoke about:
 
-⋅⋅* Git vs GitHub
-⋅⋅* Licenses and copyright
-⋅⋅* History of Git
-⋅⋅* Explained some terms
+- Git vs GitHub
+- Licenses and copyright
+- History of Git
+- Explained some terms
 
 <img src="img/TitusWormer.png"/>
 </details>
