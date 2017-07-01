@@ -1,7 +1,7 @@
 # weekly-nerd
 
 <details>
-<summary>Justus Sturkenboom - Functional Programming</summary>
+<summary> ### Justus Sturkenboom - Functional Programming</summary>
 
 De eerste Weekly Nerd werd afgetrapt door Justus Sturkenboom die ons wat meer ging vertellen over Functional Programming.
 
@@ -29,7 +29,7 @@ Bron: Gastredacteur (10 april 2013). Op basis van stemmen kun je geen beste doce
 
 
 <details>
-<summary>Stephen Hay</summary>
+<summary><b>Stephen Hay</b></summary>
 Onze volgende gast was Stephen Hay. Hij had geen presentatie voorbereidt, in plaats daarvan konden we hem vragen stellen over zijn beroepsrol.
 
 Stephen Hay is van origine een Amerikaan. Hij is in 1992 naar Nederland gekomen voor zijn vrouw en is blijven plakken. Zijn professionele herkomst is grafisch ontwerpen. Sindsdien is hij heel erg gegroeid en is hij een populaire spreker onder de onderwerpen: CSS, web toegankelijkheid en open web standaarden.
