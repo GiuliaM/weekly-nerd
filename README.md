@@ -1,7 +1,9 @@
-# weekly-nerd
+# Weekly Nerd
+
+Every week at the minor Web Development, we had a professional in front of our class. Here is a list of all of these guest speakers. Besides the speakers we also had 5 articles to write, these are displayed beneath them. 
 
 <details>
-<summary> ### Justus Sturkenboom - Functional Programming</summary>
+<summary><h3>Justus Sturkenboom - Functional Programming</h3></summary>
 
 De eerste Weekly Nerd werd afgetrapt door Justus Sturkenboom die ons wat meer ging vertellen over Functional Programming.
 
