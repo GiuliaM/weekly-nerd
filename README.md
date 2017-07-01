@@ -1,9 +1,9 @@
 # Weekly Nerd
 
-Every week at the minor Web Development, we had a professional in front of our class. Here is a list of all of these guest speakers. Besides the speakers we also had 5 articles to write, these are displayed beneath them. 
+Every week at the minor Web Development, we had a professional in front of our class. Here is a list of all of these guest speakers. Besides the speakers we also had 5 articles to write, these are displayed beneath them.
 
 <details>
-<summary><h3>Justus Sturkenboom - Functional Programming</h3></summary>
+<summary><b>Justus Sturkenboom - Functional Programming</b></summary>
 
 De eerste Weekly Nerd werd afgetrapt door Justus Sturkenboom die ons wat meer ging vertellen over Functional Programming.
 
@@ -43,4 +43,32 @@ Het gesprek ging over verschillende dingen. We hebben gevraagd hoe hij in Nederl
 > “Aim above the mark to hit the mark”
 
 <img src="img/SH.png"/>
+</details>
+
+
+<details>
+<summary><b>Peter Paul Koch - Browser bloat</b></summary>
+Peter Paul Koch discussed the following subjects when he came to speak to us:
+
+4 commen mistakes
+⋅⋅* Understanding the web -> minify the use of ⋅⋅* tools
+⋅⋅* Libraries
+⋅⋅* True JavaScript
+⋅⋅* Web Platforms
+
+<img src="img/ppk1.png"/>
+<img src="img/ppk2.png"/>
+<img src="img/ppk3.png"/>
+</details>
+
+<details>
+<summary><b>Titus Wormer - Advanced Git Tips & Tricks</b></summary>
+In this Weekly Nerd Titus Wormer told us more about the tool we used throughout the minor, Git. He spoke about:
+
+⋅⋅* Git vs GitHub
+⋅⋅* Licenses and copyright
+⋅⋅* History of Git
+⋅⋅* Explained some terms
+
+<img src="img/TitusWormer.png"/>
 </details>
