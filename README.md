@@ -4,7 +4,7 @@ Every week at the minor Web Development, we had a professional in front of our c
 
 ------------------------
 
-##Weekly Nerds
+## Weekly Nerds
 <details>
 <summary><b>Justus Sturkenboom - Functional Programming</b></summary>
 
@@ -174,4 +174,4 @@ An other owner of Lifely came to speak about his school and work experience.
 
 ------------------------
 
-##Articles
+## Articles
