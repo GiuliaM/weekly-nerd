@@ -175,3 +175,5 @@ An other owner of Lifely came to speak about his school and work experience.
 ------------------------
 
 ## Articles
+
+[Look at Medium for the articles](https://medium.com/@Giuul/)
