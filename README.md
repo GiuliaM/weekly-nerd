@@ -177,3 +177,8 @@ An other owner of Lifely came to speak about his school and work experience.
 ## Articles
 
 [Look at Medium for the articles](https://medium.com/@Giuul/)
+- [The purpose of Sketchnoting](https://medium.com/@Giuul/the-purpose-of-sketchnoting-f2fc45080578)
+- [Animating a SVG](https://medium.com/@Giuul/animating-a-svg-6b57a5fd2bff)
+- [GitHub for beginners](https://medium.com/@Giuul/github-for-beginners-db9592b7f50e)
+- [Wit.ai and how to use it](https://medium.com/@Giuul/wit-ai-and-how-to-use-it-72372b07d98b)
+- [Contrast Research part-up.com](https://medium.com/@Giuul/contrast-research-part-up-com-1c8ae6b63a2d)
